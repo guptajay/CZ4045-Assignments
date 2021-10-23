@@ -1,43 +1,67 @@
-# CZ4045-Assignment-1
+# Assignment 1: Review Data Analysis and Processing
+> CE/CZ4045 Natural Language Processing \
+> School of Computer Science and Engineering \
+> Nanyang Technological University, Singapore
 
-# Data
+##  Data
 
-The data folder contains the : 
-1. Raw **JSON** data for the reviews 
-2. **CSV** data from the json for analysis
+The data folder contains the: 
+1. Raw **JSON** data for the reviews.
+2. **CSV** data from the json for analysis.
 
-# Libraries 
-1. nltk : https://www.nltk.org/
-2. pandas : https://pandas.pydata.org/
-3. numpy : https://numpy.org/
-4. tqdm : https://tqdm.github.io/
-5. matplotlib : https://matplotlib.org/
-6. keras : https://keras.io/
-7. spacy : https://spacy.io/
-8. gensim : https://pypi.org/project/gensim/
-9. sumy : https://pypi.org/project/sumy/
-10. transformers : https://huggingface.co/transformers/
-11. sentencepiece : https://pypi.org/project/sentencepiece/
-12. sklearn : https://scikit-learn.org/stable/
-13. jupyter : https://jupyter.org/install
+##  Third-Party Libraries 
+* nltk : https://www.nltk.org
+* pandas : https://pandas.pydata.org
+* numpy : https://numpy.org
+* tqdm : https://tqdm.github.io
+* matplotlib : https://matplotlib.org
+* keras : https://keras.io
+* spacy : https://spacy.io
+* gensim : https://pypi.org/project/gensim
+* sumy : https://pypi.org/project/sumy
+* transformers : https://huggingface.co/transformers
+* sentencepiece : https://pypi.org/project/sentencepiece
+* sklearn : https://scikit-learn.org/stable
+* jupyter : https://jupyter.org/install
 
-# Installation 
-```
-pip install nltk
-pip install pandas
-pip install numpy
-pip install tqdm
-pip install matplotlib
-pip install keras
-pip install sklearn
-pip install gensim
-pip install spacy
-pip install sumy
-pip install transformers
-pip install sentencepiece
+##  Installation 
+
+```console
+pip install nltk pandas numpy tqdm matplotlib keras sklearn gensim spacy sumy transformers sentencepiece
 ```
 
-## Summarization Application
+> Open Terminal (Mac) / Powershell (Windows)
+
+```console
+conda activate
+jupyer notebook
+```
+
+## 1. Dataset Analysis
+
+### 1.1 Tokenization & Stemming
+
+### 1.2 POS Tagging
+
+### 1.3 Writing Style
+
+### 1.4 Most Frequent Noun-Adj Pairs
+1. Navigate to `Jupyter/[1.3] Noun-Adj-Pairs.ipynb`.
+2. Run all the cells.
+
+```
+1.0  Star Reviews
+-------------
+[(('time', 'first'), 5), (('reviews', 'good'), 3), (('time', 'second'), 3), (('appointment', 'able'), 3), (('fly', 'dead'), 3), (('service', 'horrible'), 3), (('night', 'last'), 2), (('Charlotte', 'local'), 2), (('food', 'fast'), 2), (('quality', 'poor'), 2)]
+
+2.0  Star Reviews
+-------------
+...
+```
+
+Every review in the dataset is associated with a “star” rating ranging between 1 to 5. 50 reviews are randomly selected (each from a unique business) of rating 1-star and the top 10 most frequently occurring noun-adjective pairs are extracted in the below tables. The process is repeated for 20 reviews with rating 2, 3, 4, and 5 stars respectively.
+
+## 3. Summarization Application
 
 Steps to run application:
 1. Go to Jupyter folder
@@ -54,6 +78,14 @@ Example Result:
 
 ![image](https://user-images.githubusercontent.com/43417744/138554635-b0604d04-efdf-4bf9-b3e2-3222f6a4b2cc.png)
 
+----
 
+## Authors
+
+* Tharakan Roham Roy
+* Gupta Jay
+* Jose Jeswin
+* Adrakatti Vivek
+* Dandapath Soham
 
 
