@@ -61,6 +61,12 @@ jupyer notebook
 
 Every review in the dataset is associated with a “star” rating ranging between 1 to 5. 50 reviews are randomly selected (each from a unique business) of rating 1-star and the top 10 most frequently occurring noun-adjective pairs are extracted in the below tables. The process is repeated for 20 reviews with rating 2, 3, 4, and 5 stars respectively.
 
+---
+
+## 2. Indicative Adjective Phrases
+
+---
+
 ## 3. Summarization Application
 
 Steps to run application:
