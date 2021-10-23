@@ -44,5 +44,16 @@ Steps to run application:
 2. run application.py 
 
 Enter your review text:
+![image](https://user-images.githubusercontent.com/43417744/138554561-24c4801f-b70f-4bf1-b620-d6fd5e8f2c46.png)
+
+Choose your summarizer:
+
+![image](https://user-images.githubusercontent.com/43417744/138554589-2b78da69-aee3-4479-a3ee-52c9407a49fa.png)
+
+Example Result:
+
+![image](https://user-images.githubusercontent.com/43417744/138554635-b0604d04-efdf-4bf9-b3e2-3222f6a4b2cc.png)
+
+
 
 
