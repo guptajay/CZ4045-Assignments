@@ -36,3 +36,13 @@ pip install sumy
 pip install transformers
 pip install sentencepiece
 ```
+
+## Summarization Application
+
+Steps to run application:
+1. Go to Jupyter folder
+2. run application.py 
+
+Enter your review text:
+
+
