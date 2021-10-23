@@ -22,7 +22,7 @@ The data folder contains the :
 13. jupyter : https://jupyter.org/install
 
 # Installation 
-'''
+```
 pip install nltk
 pip install pandas
 pip install numpy
@@ -35,4 +35,4 @@ pip install spacy
 pip install sumy
 pip install transformers
 pip install sentencepiece
-'''
+```
