@@ -40,22 +40,22 @@ jupyer notebook
 ## 1. Dataset Analysis
 ### 1.1 Tokenization & Stemming
 #### Tokenization
-1. Navigate to `Jupyter/[1.1]Tokenize.ipynb`
+1. Navigate to `Jupyter/[1.1] Tokenize.ipynb`
 2. Run all the cells.
 
 The output of the tokenization results are saved in the `Results/` folder.
 #### Stemming
-1. Navigate to `Jupyter/[1.1]Stemming.ipynb`
+1. Navigate to `Jupyter/[1.1] Stemming.ipynb`
 2. Run all the cells.
 
 ### 1.2 POS Tagging
 
 ### 1.3 Writing Style
-1. Navigate to `Jupyter/[1.3]StackOverflow.ipynb`
+1. Navigate to `Jupyter/[1.3] StackOverflow.ipynb`
 2. Run All Cells
 
 ### 1.4 Most Frequent Noun-Adj Pairs
-1. Navigate to `Jupyter/[1.3] Noun-Adj-Pairs.ipynb`.
+1. Navigate to `Jupyter/[1.4] Noun-Adj-Pairs.ipynb`.
 2. Run all the cells.
 
 ```
