@@ -73,10 +73,10 @@ Every review in the dataset is associated with a “star” rating ranging betwe
 ---
 
 ## 2. Indicative Adjective Phrases
-1. Navigate to `Jupyter/[2]IndicativeAdjectivePhrases.ipynb`.
+1. Navigate to `Jupyter/[2] IndicativeAdjectivePhrases.ipynb`.
 2. Run all the cells. 
 
-The last cell of the notebook produces the list of indicative adjective phrases for business b1 with id:j7HO1YeMQGYo3KibMXZ5vg
+The last cell of the notebook produces the list of indicative adjective phrases for business b1 with id: `j7HO1YeMQGYo3KibMXZ5vg`
 
 ---
 
