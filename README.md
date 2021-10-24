@@ -101,7 +101,7 @@ Example Result:
 
 ## Authors
 
-* Tharakan Roham Roy
+* Tharakan Rohan Roy
 * Gupta Jay
 * Jose Jeswin
 * Adrakatti Vivek
