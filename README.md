@@ -43,7 +43,7 @@ jupyer notebook
 1. Navigate to `Jupyter/[1.1]Tokenize.ipynb`
 2. Run all the cells.
 
-The output of the tokenization results are saved in the Data Results folder.
+The output of the tokenization results are saved in the `Results/` folder.
 #### Stemming
 1. Navigate to `Jupyter/[1.1]Stemming.ipynb`
 2. Run all the cells.
