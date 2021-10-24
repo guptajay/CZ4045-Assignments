@@ -38,8 +38,12 @@ jupyer notebook
 ```
 
 ## 1. Dataset Analysis
-
 ### 1.1 Tokenization & Stemming
+#### Tokenization
+1. Navigate to `Jupyter/[1.1]Tokenize.ipynb`
+2. Run all the cells.
+
+The output of the tokenization results are saved in the Data Results folder.
 
 ### 1.2 POS Tagging
 
