@@ -82,6 +82,13 @@ The last cell of the notebook produces the list of indicative adjective phrases 
 
 ## 3. Summarization Application
 
+### Extractive Summarizer
+1. Go to the `Jupyter/[3] Extractive Summarizer.ipynb`
+2. Run all the cells.
+
+The two packages used for extractive summarizer are gensim and sumy. The corresponding output is below each section
+
+### Abstractive Summarizer
 Steps to run application:
 1. Go to Jupyter folder
 2. run application.py 
