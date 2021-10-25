@@ -49,6 +49,8 @@ The output of the tokenization results are saved in the `Results/` folder.
 2. Run all the cells.
 
 ### 1.2 POS Tagging
+1. Navigate to `Jupyter/[1.2] POS_tagging.ipynb`
+2. Run all the cells.
 
 ### 1.3 Writing Style
 1. Navigate to `Jupyter/[1.3] StackOverflow.ipynb`
