@@ -38,6 +38,10 @@ jupyer notebook
 ```
 
 ## 1. Dataset Analysis
+
+We did a brief analysis on the yelp dataset to get familiar with the data. 
+The jupyter notebook can be located in `Jupyter/Data Analysis.ipynb`.
+
 ### 1.1 Tokenization & Stemming
 #### Tokenization
 1. Navigate to `Jupyter/[1.1] Tokenize.ipynb`
@@ -85,7 +89,7 @@ The last cell of the notebook produces the list of indicative adjective phrases 
 ## 3. Summarization Application
 
 ### Extractive Summarizer
-1. Go to the `Jupyter/[3] Extractive Summarizer.ipynb`
+1. Go to the `Jupyter/[3.1] Extractive Summarizer.ipynb`
 2. Run all the cells.
 
 The two packages used for extractive summarizer are gensim and sumy. The corresponding output is below each section
