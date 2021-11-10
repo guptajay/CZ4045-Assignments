@@ -58,4 +58,5 @@ Only PyTorch-FNN.ipynb must be run to load and preprocess the data as well as tr
 4. Alkan 's motion to keep revival . = <eos> Midge is box scattered 's or [ ] using <unk> <unk>
 
 Q2. Folder Question 2 NER contains code for Question 2 in the Assignment:
+Run Part4&5.ipnyb to replace lstm layer with CNN and test the model using 1 CNN layer.
 Run Part6.ipynb to increase the number of convolution layers to change the architecture
