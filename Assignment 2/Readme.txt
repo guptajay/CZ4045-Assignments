@@ -52,6 +52,10 @@ Only PyTorch-FNN.ipynb must be run to load and preprocess the data as well as tr
 -----------------------------------------------------------------------------------------
 
 1.7 Text Generation using our FNN Model
+1. Alkan became estimated similar Carolina @,@ ft appears in Europe 〈 spectra common starling . Common starlings in Europe
+2. Triandos had since two decades such types contemporary Other children = <eos> Midge Doofenshmirtz himself as a lot <unk> and
+3. it why species against keeping up is conflict effort to the <unk> style and grades that does not . <eos>
+4. Alkan 's motion to keep revival . = <eos> Midge is box scattered 's or [ ] using <unk> <unk>
 
 Q2. Folder Question 2 NER contains code for Question 2 in the Assignment:
 Run Part6.ipynb to increase the number of convolution layers to change the architecture
