@@ -189,10 +189,10 @@ Only PyTorch-FNN.ipynb must be run to load and preprocess the data as well as tr
 
 ## Authors
 
-* Tharakan Rohan Roy
-* Gupta Jay
-* Jose Jeswin
-* Adrakatti Vivek
-* Dandapath Soham
+* [Tharakan Rohan Roy](https://github.com/Blitzborg)
+* [Gupta Jay](https://github.com/guptajay)
+* [Jose Jeswin](https://github.com/Jeswin17)
+* [Adrakatti Vivek](https://github.com/VivekAdra31)
+* [Dandapath Soham](https://github.com/12dash)
 
 
